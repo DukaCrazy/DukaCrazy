@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DukaCrazy
 - 👀 I’m interested in learn Asp NET Core and Database.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on study with me.
+- 💞️ I’m looking to people to study with me.
 - 📫 How to reach me Linkedin [ https://www.linkedin.com/in/yuji-nagao-38a882129/ ]
 
 <!---
