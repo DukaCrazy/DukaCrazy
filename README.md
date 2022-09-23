@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DukaCrazy
-- 👀 I’m interested in learn IT.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in learn Asp NET Core and Database.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
