@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @DukaCrazy
-- 👀 I’m interested in learn Asp NET Core and Database.
-- 🌱 I’m currently learning C#.
+- 👋 Hi, I’m @DukaCrazy, Yuji
+- 👀 I’m interested in learn Spring Boot.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to people to study with me.
 - 📫 How to reach me Linkedin [ https://www.linkedin.com/in/yuji-nagao-38a882129/ ]
+
+I was born in Brazil and I live in Japan.
+I study java, Sql and in my spare time I study JavaScript.
+I've already studied C#, I have a brief acquaintance.
 
 <!---
 DukaCrazy/DukaCrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
