@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DukaCrazy, Yuji
 - 👀 I’m interested in learn Spring Boot.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to people to study with me.
+- 🌱 I’m currently learning Java and JSP.
+- 
 - 📫 How to reach me Linkedin [ https://www.linkedin.com/in/yuji-nagao-38a882129/ ]
 
 I was born in Brazil and I live in Japan.
