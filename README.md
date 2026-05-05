@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @DukaCrazy, Yuji
-- 👀 I’m interested in learn Spring Boot.
-- 🌱 I’m currently learning Java and JSP.
+# 👋 Hi, I'm Yuji Nagao
+
+I work professionally with VBA and Python.
+In my free time, I develop open‑source projects in various high‑level programming languages.
+- 🔭 Currently building accessibility‑focused Python libraries (e.g., BrailleBase)
+- 🌱 Skills: Java, VBA, Python
+- 🌏 Focused on accessibility, education, and practical software tools
+- 📚 Continuously improving my technical knowledge
 - 
-- 📫 How to reach me Linkedin [ https://www.linkedin.com/in/yuji-nagao-38a882129/ ]
-
-I was born in Brazil and I live in Japan.
-I study java, Sql and in my spare time I study JavaScript.
-I've already studied C#, I have a brief acquaintance.
-
-<!---
-DukaCrazy/DukaCrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 LinkedIn:
+https://www.linkedin.com/in/yuji-nagao-38a882129/
